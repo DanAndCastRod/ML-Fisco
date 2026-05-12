@@ -1,0 +1,172 @@
+﻿
+======================================================================
+  PRIORIDAD ALTA
+======================================================================
+
+  Coglianese & Lehr (2017)
+  T├¡tulo: Regulating by robot: Administrative decision making in the Machine-learning era
+  Autor(es): Coglianese et al.
+  A├▒o: 2017
+  Fuente: Georgetown Law Journal
+  DOI: ÔØî No disponible en el registro BibTeX
+  URL alternativa: https://www.scopus.com/pages/publications/85025587354?origin=resultslist
+
+  Towards XAI in Tax Law (2022)
+  T├¡tulo: Towards eXplainable Artificial Intelligence (XAI) in Tax Law: The Need for a Minimum Legal Standard
+  Autor(es): Ku┼║niacki et al.
+  A├▒o: 2022
+  Fuente: World Tax Journal
+  DOI: 10.59403/2yhh9pa
+  URL: https://doi.org/10.59403/2yhh9pa
+
+  AI, Rule of Law, Taxation (2024)
+  T├¡tulo: ARTIFICIAL INTELLIGENCE, THE RULE OF LAW AND PUBLIC ADMINISTRATION: THE CASE OF TAXATION
+  Autor(es): Daly et al.
+  A├▒o: 2024
+  Fuente: Cambridge Law Journal
+  DOI: 10.1017/S0008197324000448
+  URL: https://doi.org/10.1017/S0008197324000448
+
+  AI Governance and Taxpayers' Rights (2025)
+  T├¡tulo: AI Governance and TaxpayersÔÇÖ Rights in a Digital Age
+  Autor(es): Owens et al.
+  A├▒o: 2025
+  Fuente: Intertax
+  DOI: 10.54648/taxi2025069
+  URL: https://doi.org/10.54648/taxi2025069
+
+  Balancing innovation and integrity (2025)
+  T├¡tulo: Balancing innovation and integrity: AI in tax administration and taxpayer rights
+  Autor(es): Guglyuvatyy et al.
+  A├▒o: 2025
+  Fuente: Humanities and Social Sciences Communications
+  DOI: 10.1057/s41599-025-06099-7
+  URL: https://doi.org/10.1057/s41599-025-06099-7
+
+  Fighting Tax Fraud through AI (2020)
+  T├¡tulo: Fighting Tax Fraud through Artificial Intelligence Tools: Will the Fundamental Rights of Taxpayers Survive the Digital T
+  Autor(es): Calder├│n et al.
+  A├▒o: 2020
+  Fuente: European Taxation
+  DOI: ÔØî No disponible en el registro BibTeX
+  URL alternativa: https://www.scopus.com/pages/publications/85158943647?origin=resultslist
+
+  Requirements for Tax XAI (2022)
+  T├¡tulo: Requirements for Tax XAI Under Constitutional Principles and Human Rights
+  Autor(es): Kuzniacki et al.
+  A├▒o: 2022
+  Fuente: Lecture Notes in Computer Science (including subseries Lecture Notes in Artifici
+  DOI: 10.1007/978-3-031-15565-9_14
+  URL: https://doi.org/10.1007/978-3-031-15565-9_14
+
+  Tax compliance and privacy rights (2019)
+  T├¡tulo: Tax compliance and privacy rights in profiling and automated decision making
+  Autor(es): Scarcella et al.
+  A├▒o: 2019
+  Fuente: Internet Policy Review
+  DOI: 10.14763/2019.4.1422
+  URL: https://doi.org/10.14763/2019.4.1422
+
+======================================================================
+  PRIORIDAD MEDIA
+======================================================================
+
+  Behind the One-Way Mirror (2022)
+  T├¡tulo: ÔÇÿBehind the One-Way Mirror: Reviewing the Legality of EU Tax Algorithmic GovernanceÔÇÖ
+  Autor(es): Hadwick et al.
+  A├▒o: 2022
+  Fuente: EC Tax Review
+  DOI: 10.54648/ecta2022019
+  URL: https://doi.org/10.54648/ecta2022019
+
+  Exploring explainable AI in tax (2025)
+  T├¡tulo: Exploring explainable AI in the tax domain
+  Autor(es): G├│rski et al.
+  A├▒o: 2025
+  Fuente: Artificial Intelligence and Law
+  DOI: 10.1007/s10506-024-09395-w
+  URL: https://doi.org/10.1007/s10506-024-09395-w
+
+  Ethics in AI Use for Tax Admin (2025)
+  T├¡tulo: Ethics in AI Use for Tax Administration: Guidelinesfor the Future
+  Autor(es): Nisi et al.
+  A├▒o: 2025
+  Fuente: Intertax
+  DOI: 10.54648/taxi2025065
+  URL: https://doi.org/10.54648/taxi2025065
+
+  Use of AI by Tax Authorities (2025)
+  T├¡tulo: The Use of Artificial Intelligence by Tax Authorities for Tax Auditing Purposes: Reflections in Light of the European Ta
+  Autor(es): Cerioni et al.
+  A├▒o: 2025
+  Fuente: International Tax Studies
+  DOI: 10.59403/1cwb5mx
+  URL: https://doi.org/10.59403/1cwb5mx
+
+  AI and Tax Administration (2021)
+  T├¡tulo: Artificial Intelligence and Tax Administration: Strategy, Applications and Implications, with Special Reference to the T
+  Autor(es): Ant├│n et al.
+  A├▒o: 2021
+  Fuente: World Tax Journal
+  DOI: 10.59403/bcs8j9
+  URL: https://doi.org/10.59403/bcs8j9
+
+  IA, Sesgos y No Discriminaci├│n (2022)
+  T├¡tulo: ARTIFICIAL INTELLIGENCE, BIASES AND NON-DISCRIMINATION IN TAX ASSESSMENT PROCEDURE; [INTELIGENCIA ARTIFICIAL, SESGOS Y N
+  Autor(es): L├│pez et al.
+  A├▒o: 2022
+  Fuente: Cronica Tributaria
+  DOI: 10.47092/CT.22.1.2
+  URL: https://doi.org/10.47092/CT.22.1.2
+
+  Regulation algorithms Colombian (2024)
+  T├¡tulo: Regulation of algorithms and AI systems for judicial decision making, decision making with AI systems in the Colombian j
+  Autor(es): Acevedo et al.
+  A├▒o: 2024
+  Fuente: Via Inveniendi et Iudicandi
+  DOI: 10.15332/19090528.10098
+  URL: https://doi.org/10.15332/19090528.10098
+
+  Explainable AI for government (2024)
+  T├¡tulo: Explainable AI for government: Does the type of explanation matter to the accuracy, fairness, and trustworthiness of an 
+  Autor(es): Aoki et al.
+  A├▒o: 2024
+  Fuente: Government Information Quarterly
+  DOI: 10.1016/j.giq.2024.101965
+  URL: https://doi.org/10.1016/j.giq.2024.101965
+
+======================================================================
+  PRIORIDAD BAJA
+======================================================================
+
+  Zerilli et al. (2019)
+  T├¡tulo: Transparency in Algorithmic and Human Decision-Making: Is There a Double Standard?
+  Autor(es): Zerilli et al.
+  A├▒o: 2019
+  Fuente: Philosophy and Technology
+  DOI: 10.1007/s13347-018-0330-6
+  URL: https://doi.org/10.1007/s13347-018-0330-6
+
+  XAI Supporting Public Admin Tax Audit (2021)
+  T├¡tulo: Explainable Artificial Intelligence (XAI) Supporting Public Administration Processes ÔÇô On the Potential of XAI in Tax Au
+  Autor(es): Mehdiyev et al.
+  A├▒o: 2021
+  Fuente: Lecture Notes in Information Systems and Organisation
+  DOI: 10.1007/978-3-030-86790-4_28
+  URL: https://doi.org/10.1007/978-3-030-86790-4_28
+
+  Proactive detection tax fraud XAI (2025)
+  T├¡tulo: Proactive detection of tax fraud using explainable AI techniques: A hybrid approach
+  Autor(es): AlSobeh et al.
+  A├▒o: 2025
+  Fuente: Issues in Information Systems
+  DOI: 10.48009/3_iis_2025_2025_120
+  URL: https://doi.org/10.48009/3_iis_2025_2025_120
+
+  Automated decision-making public admin (2021)
+  T├¡tulo: Automated decision-making in public administration
+  Autor(es): Monarcha-Matlak et al.
+  A├▒o: 2021
+  Fuente: Procedia Computer Science
+  DOI: 10.1016/j.procs.2021.08.215
+  URL: https://doi.org/10.1016/j.procs.2021.08.215

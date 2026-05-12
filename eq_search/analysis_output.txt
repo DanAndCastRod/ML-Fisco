@@ -1,0 +1,878 @@
+﻿Total entries: 540
+  Scopus_B2.bib: 96 entries
+  Scopus_B3.bib: 57 entries
+  Scopus_B4.bib: 30 entries
+  principal.bib: 333 entries
+  Scopus_A.bib: 15 entries
+  Scopus_B1.bib: 9 entries
+Unique entries: 513, Duplicates removed: 27
+
+=== CLASSIFICATION FOR ROUTE A ===
+3 pillars (Tax+ML+DueProcess): 195 entries
+Tax + ML (no due process): 34 entries
+Tax + DueProcess (no ML): 20 entries
+ML + DueProcess (no tax): 199 entries
+Single pillar only: 54 entries
+
+=== TOP ENTRIES: ALL 3 PILLARS (Tax + ML + Due Process) ===
+1. [2025] Mitigating AI risks: A comparative analysis of Data Protection Impact Assessments under GDPR and KVKK
+   Source: Journal of Data Protection and Privacy | File: Scopus_B2.bib
+
+2. [2025] AI revolution in insurance: bridging research and reality
+   Source: Frontiers in Artificial Intelligence | File: Scopus_B2.bib
+
+3. [2021] WhatÔÇÖs in the Box?: The Legal Requirement of Explainability in Computationally Aided Decision-Making in Public Administration
+   Source: Constitutional Challenges in the Algorithmic Society | File: Scopus_B2.bib
+
+4. [2025] GDPR and Large Language Models: Technical and Legal Obstacles
+   Source: Future Internet | File: Scopus_B2.bib
+
+5. [2020] Administrative law and data science. Notes on artificial administrative intelligence (AAI); [Diritto Amministrativo e data Science. Appunti 
+   Source: P.A. Persona e Amministrazione | File: Scopus_B2.bib
+
+6. [2021] The Dual Function of Explanations: Why Computing Explanations is of Value
+   Source: Data Protection and Privacy: Enforcing Rights in a Changing  | File: Scopus_B2.bib
+
+7. [2020] Governing Artificial Intelligence to benefit the UN Sustainable Development Goals
+   Source: Sustainable Development | File: Scopus_B2.bib
+
+8. [2020] Methods of Corporate Surveillance: A Primer on Experimental Transparency Research
+   Source: The Web Conference 2020 - Companion of the World Wide Web Co | File: Scopus_B2.bib
+
+9. [2020] Access to algorithms
+   Source: Fordham Law Review | File: Scopus_B2.bib
+
+10. [2025] An Uninterpretable Right: Legal and Practical Limits of the Right to an Explanation
+   Source: Proceedings of the International Joint Conference on Neural  | File: Scopus_B2.bib
+
+11. [2017] AlgorithmWatch: What Role Can a Watchdog Organization Play in Ensuring Algorithmic Accountability?
+   Source: Studies in Big Data | File: Scopus_B2.bib
+
+12. [2025] Ethical AI in Marketing Facebook's Efforts to Balance Customer Privacy and Personalization
+   Source: Customer-Centric AI: Conversational Technologies, Personaliz | File: Scopus_B2.bib
+
+13. [2024] Rule of law in the AI era: addressing accountability, and the digital divide
+   Source: Discover Artificial Intelligence | File: Scopus_B2.bib
+
+14. [2018] Access to public data and source codes in Italy. Seeking ÔÇ£algorithmic transparencyÔÇØ on the threshold of the implementation of General Data P
+   Source: Revue Francaise d'Administration Publique | File: Scopus_B2.bib
+
+15. [2025] Transforming Scholarship Selection: A Review of AI-Driven Matching Algorithms and Transformer Models
+   Source: Proceedings - 2025 8th International Conference on Informati | File: Scopus_B2.bib
+
+16. [2025] Governing AI with trust: an adaptive framework for institutional legitimacy in the UK public sector
+   Source: Transforming Government: People, Process and Policy | File: Scopus_B2.bib
+
+17. [2025] Theoretical Foundations for Governing AI-Based Learning Outcome Assessment in High-Risk Educational Contexts
+   Source: Information (Switzerland) | File: Scopus_B2.bib
+
+18. [2024] Accounting for context in AI technologies
+   Source: Handbook on Public Policy and Artificial Intelligence | File: Scopus_B2.bib
+
+19. [2025] AI IN PHOTOJOURNALISM ETHICS AND MANAGEMENT
+   Source: ShodhKosh: Journal of Visual and Performing Arts | File: Scopus_B2.bib
+
+20. [2025] Unveiling the Black Box: The Crucial Role of Interpretability in Machine Learning Models
+   Source: Cutting-Edge Solutions for Advancing Sustainable Development | File: Scopus_B2.bib
+
+21. [2023] Government by Algorithms at the Light of Freedom of Information Regimes A Case-by-Case Approach on ADM Systems within Public Education Secto
+   Source: Indiana Journal of Global Legal Studies | File: Scopus_B2.bib
+
+22. [2026] AI-Powered Business Intelligence: A Review of Innovations, Applications, and Ethical Considerations
+   Source: Lecture Notes in Networks and Systems | File: Scopus_B2.bib
+
+23. [2026] Regulating AI in Administrative Decision-Making: Legal Implications and Technological Innovations
+   Source: Studies in Systems, Decision and Control | File: Scopus_B2.bib
+
+24. [2025] The role of artificial intelligence in glaucomaa: a review article
+   Source: Tehran University Medical Journal | File: Scopus_B2.bib
+
+25. [2023] TOpening the Black-Box in Private-Law Employment Relationships: A Critical Review of the Newly Implemented Spanish WorkersÔÇÖ CouncilÔÇÖs Right 
+   Source: Global Privacy Law Review | File: Scopus_B2.bib
+
+26. [2025] Integrating generative AI in Robo-Advisory: A systematic review of opportunities, challenges, and strategic solutions
+   Source: Multidisciplinary Reviews | File: Scopus_B2.bib
+
+27. [2022] A black box approach to auditing algorithms
+   Source: Issues in Information Systems | File: Scopus_B2.bib
+
+28. [2025] Digital Environmentalism: A Legal and Moral Perspective on Climate Governance in the Age of Data and AI
+   Source: E3S Web of Conferences | File: Scopus_B2.bib
+
+29. [2025] Outsourcing Selection Optimization Through Neuro-Symbolic AI Approach: Learning Integration and Reasoning for Fair and Efficient Recruitment
+   Source: International Conference on Engineering and Emerging Technol | File: Scopus_B2.bib
+
+30. [2021] When Algorithmic Transparency Failed: Controversies Over Algorithm-Driven Content Curation in the South Korean Digital Environment
+   Source: American Behavioral Scientist | File: Scopus_B2.bib
+
+31. [2021] The dual function of explanations: Why it is useful to compute explanations
+   Source: Computer Law and Security Review | File: Scopus_B2.bib
+
+32. [2026] Intelligent Robo-advisors and Personalized Financial Planning
+   Source: Foundations of Artificial Intelligence in Finance: Insights  | File: Scopus_B2.bib
+
+33. [2024] Algorithmic decisions in education governance: implications and challenges
+   Source: Discover Education | File: Scopus_B3.bib
+
+34. [2019] Aplicaci├│n de inteligencia artificial y big data en el control de la administraci├│n p├║blica y en el combate a la corrupci├│n: la experiencia 
+   Source: Revista General de Derecho Administrativo | File: Scopus_B3.bib
+
+35. [2026] Dual erosion of equality and remedy in algorithmic decision systems
+   Source: Discover Artificial Intelligence | File: Scopus_B3.bib
+
+36. [2021] Procurement as AI Governance
+   Source: IEEE Transactions on Technology and Society | File: Scopus_B3.bib
+
+37. [2021] Automated decision-making in public administration
+   Source: Procedia Computer Science | File: Scopus_B3.bib
+
+38. [2026] Identifying Key Issues in Artificial Intelligence Litigation: A Machine Learning Text Analytic Approach
+   Source: Applied Sciences (Switzerland) | File: Scopus_B3.bib
+
+39. [2025] A comprehensive review of LLM-based content moderation: advancements, challenges, and future directions
+   Source: Knowledge-Based Systems | File: Scopus_B3.bib
+
+40. [2020] Improving public services using artificial intelligence: possibilities, pitfalls, governance
+   Source: Asia Pacific Journal of Public Administration | File: Scopus_B3.bib
+
+41. [2017] Regulating by robot: Administrative decision making in the Machine-learning era
+   Source: Georgetown Law Journal | File: Scopus_B3.bib
+
+42. [2020] Outsourcing the welfare state: The role of private actors in welfare fraud investigations
+   Source: European Journal of Comparative Law and Governance | File: Scopus_B3.bib
+
+43. [2025] Citizen Involvement in Algorithmic Regulation: How Awareness and Participation Shape Public Opinion, Civic Behaviors, and Social Trust
+   Source: Human Behavior and Emerging Technologies | File: Scopus_B3.bib
+
+44. [2025] Does artificial intelligence improve social equity in public services? A┬ásystematic literature review on opportunities and pitfalls
+   Source: International Journal of Public Sector Management | File: Scopus_B3.bib
+
+45. [2024] Regulation of algorithms and AI systems for judicial decision making, decision making with AI systems in the Colombian justice system; [Regu
+   Source: Via Inveniendi et Iudicandi | File: Scopus_B3.bib
+
+46. [2021] Beyond RoboDebt: The Future of Robotic Process Automation
+   Source: Research Anthology on Recent Trends, Tools, and Implications | File: Scopus_B3.bib
+
+47. [2024] Explainable AI for government: Does the type of explanation matter to the accuracy, fairness, and trustworthiness of an algorithmic decision
+   Source: Government Information Quarterly | File: Scopus_B3.bib
+
+48. [2011] Measure twice, shoot once: Higher care for cia-targeted killing
+   Source: University of Illinois Law Review | File: Scopus_B3.bib
+
+49. [2018] Algo-Rhythms and the Beat of the Legal Drum
+   Source: Philosophy and Technology | File: Scopus_B3.bib
+
+50. [2017] The penetration of robotics into the administrative function of the state - Pre-economy of citizenryÔÇÖs benefit
+   Source: Communications in Computer and Information Science | File: Scopus_B3.bib
+
+51. [2023] Online Dispute Resolution and the End of Adversarial Justice?
+   Source: Legal Tech and the Future of Civil Justice | File: Scopus_B3.bib
+
+52. [2025] Impact of Digitalization on the Tax System: New Approaches to Digital Taxation and Reporting
+   Source: Proceedings - International Conference on Advanced Computer  | File: Scopus_B4.bib
+
+53. [2025] The role of e-government in mitigating tax evasion through behavioral profiling of non-compliant taxpayers
+   Source: Modeling and Profiling Taxpayer Behavior and Compliance | File: Scopus_B4.bib
+
+54. [2026] Blockchain Forensics and Regulatory Technology for Crypto Tax Compliance: A State-of-the-Art Review and Emerging Directions in the South Afr
+   Source: Applied Sciences (Switzerland) | File: Scopus_B4.bib
+
+55. [2025] Methodology for implementing electronic audit projects (SAF-T UA) for large taxpayers in Ukraine
+   Source: CEUR Workshop Proceedings | File: Scopus_B4.bib
+
+56. [2022] Under Which Conditions Would the ATADÔÇÖs GAAR Benefit from Automatic Decision-Making in Terms of Legal Certainty and Efficiency?
+   Source: International Tax Studies | File: Scopus_B4.bib
+
+57. [2025] Tax administration
+   Source: Elgar Concise Encyclopedia of Artificial Intelligence and th | File: Scopus_B4.bib
+
+58. [2025] Transforming IndiaÔÇÖs Indirect Taxation System Through Data Analytics and Artificial Intelligence
+   Source: Lecture Notes in Networks and Systems | File: Scopus_B4.bib
+
+59. [2023] Increasing the Transparency of Tax Administration and Accounting and Analytical System of Management Based on AI and IT Technologies in Supp
+   Source: Approaches to Global Sustainability, Markets, and Governance | File: Scopus_B4.bib
+
+60. [2026] Leveraging Transfer Learning for┬áGovernment Auditing: Multiclass Classification of┬áFinancial Statements in┬áBrazil for┬áReview
+   Source: Lecture Notes in Networks and Systems | File: Scopus_B4.bib
+
+61. [2020] The Transformation of Motor Vehicle Taxation in a Climate of Digitization of the Economy of the Russian Federation
+   Source: Lecture Notes in Networks and Systems | File: Scopus_B4.bib
+
+62. [2008] Tools for managing a construction project
+   Source: TAC/ATC 2008 - 2008 Annual Conference and Exhibition of the  | File: Scopus_B4.bib
+
+63. [2025] Application of Internet of Things (IOT) and Machine Learning in Indirect Tax Collection: Opportunity and Challenges
+   Source: 3rd International Conference on Advancements in Smart, Secur | File: Scopus_B4.bib
+
+64. [2022] Requirements for Tax XAI Under Constitutional Principles and Human Rights
+   Source: Lecture Notes in Computer Science (including subseries Lectu | File: Scopus_B4.bib
+
+65. [2017] Accountable algorithms
+   Source: University of Pennsylvania Law Review | File: Scopus_B4.bib
+
+66. [2025] Balancing innovation and integrity: AI in tax administration and taxpayer rights
+   Source: Humanities and Social Sciences Communications | File: Scopus_B4.bib
+
+67. [2025] Privacy concerns and ethical considerations in integrating AI into tax control processes: A systematic literature review
+   Source: AI, Transparency, and Organizational Change | File: Scopus_B4.bib
+
+68. [2025] Integration of Artificial Intelligence into Taxation Processes
+   Source: Contributions to Finance and Accounting | File: Scopus_B4.bib
+
+69. [2021] Artificial Intelligence and Tax Administration: Strategy, Applications and Implications, with Special Reference to the Tax Inspection Proced
+   Source: World Tax Journal | File: Scopus_B4.bib
+
+70. [2025] New technologies, corporate governance and culture
+   Source: Corporate Governance and Culture in Financial Institutions | File: Scopus_B4.bib
+
+71. [2014] E-Government legislation: Implementation issues for programs for low-income people
+   Source: Government Information Quarterly | File: Scopus_B4.bib
+
+72. [2022] ARTIFICIAL INTELLIGENCE, BIASES AND NON-DISCRIMINATION IN TAX ASSESSMENT PROCEDURE; [INTELIGENCIA ARTIFICIAL, SESGOS Y NO DISCRIMINACI├ôN EN 
+   Source: Cronica Tributaria | File: Scopus_B4.bib
+
+73. [2026] Eagle Eyes: How the Chicago Police DepartmentÔÇÖs Video Surveillance Network is Used to Fight Crime and its Fourth Amendment Implications
+   Source: Journal of Criminal Law and Criminology | File: Scopus_B4.bib
+
+74. [2022] Contemporary Trends in Public Administration and Technology
+   Source: Technology and Public Management, 2nd Edition | File: Scopus_B4.bib
+
+75. [2025] Role and Strategic Advantages of the Electronic Tax System; [Elektron vergi sisteminin rolu v╔Ö strateji ├╝st├╝nl├╝kl╔Öri]
+   Source: Scientific Work | File: Scopus_B4.bib
+
+76. [2025] Blockchain Consortium Model for Automated and Real-Time Tax Audit for Tax Advisor
+   Source: Proceedings - 7th International Conference on Informatics, M | File: Scopus_B4.bib
+
+77. [2020] Fighting Tax Fraud through Artificial Intelligence Tools: Will the Fundamental Rights of Taxpayers Survive the Digital Transformation of Tax
+   Source: European Taxation | File: Scopus_B4.bib
+
+78. [2019] Taxpayer rights and protections in a digital global environment
+   Source: Ethics and Taxation | File: Scopus_B4.bib
+
+79. [2022] Digitalization of Tax Administration in Russia: Opportunities and Risks; [ðªð©ÐäÐÇð¥ð▓ð©ðÀð░Ðåð©ÐÅ ð¢ð░ð╗ð¥ð│ð¥ð▓ð¥ð│ð¥ ð░ð┤ð╝ð©ð¢ð©ÐüÐéÐÇð©ÐÇð¥ð▓ð░ð¢ð©ÐÅ ð▓ ðáð¥ÐüÐüð©ð©: ð▓ð¥ðÀð╝ð¥ðÂð¢ð¥ÐüÐéð© ð© 
+   Source: Ekonomicheskaya Politika | File: Scopus_B4.bib
+
+80. [2020] Tax authority immunity in a digital tax administration world
+   Source: eJournal of Tax Research | File: Scopus_B4.bib
+
+81. [2018] The merit of the DATA act to enhance the governmental reporting process: A corporate governance perspective
+   Source: Journal of Emerging Technologies in Accounting | File: Scopus_B4.bib
+
+82. [2026] Beyond the veil: unpacking money laundering through economic models, emerging technologies, and government capture
+   Source: Economics of Governance | File: principal.bib
+
+83. [2025] The Value of Disagreement in AI Design, Evaluation, and Alignment
+   Source: ACMF AccT 2025 - Proceedings of the 2025 ACM Conference on F | File: principal.bib
+
+84. [2025] A Pathway to Efficiency and Transparency of Indian Taxation System Through AI Technologies: NLP and Big Data Analytics
+   Source: 2025 International Conference on Cognitive Computing in Engi | File: principal.bib
+
+85. [2022] Artificial intelligence in the tax management system and the prevention and identification of harmful acts in tax matters; [A intelig├¬ncia a
+   Source: Revista Juridica Portucalense | File: principal.bib
+
+86. [2023] Detecting Atypical Behaviors of Taxpayers with Risk of NonPayment in Tax Administration, A Data Mining Framework; [Detecci├│n de Comportamien
+   Source: Revista Politecnica | File: principal.bib
+
+87. [2025] Unlevel playing field? Machine learning meets state aid regulation
+   Source: International Journal of Industrial Organization | File: principal.bib
+
+88. [2024] Ethical Implications of Transparency and Explainability of Artificial Intelligence for Managing Value-Added Tax (VAT) in Corporations
+   Source: Communications in Computer and Information Science | File: principal.bib
+
+89. [2025] Towards trustworthy medical AI ecosystems ÔÇô a proposal for supporting responsible innovation practices in AI-based medical innovation
+   Source: AI and Society | File: principal.bib
+
+90. [2024] ARTIFICIAL INTELLIGENCE, THE RULE OF LAW AND PUBLIC ADMINISTRATION: THE CASE OF TAXATION
+   Source: Cambridge Law Journal | File: principal.bib
+
+91. [2024] Less Discriminatory Algorithms
+   Source: Georgetown Law Journal | File: principal.bib
+
+92. [2025] Smart Administrative Punishment: a Slippery Slope of Automated Decision-Making and its Economic Incentives in Public Law
+   Source: Ceridap | File: principal.bib
+
+93. [2025] Application of Interpretable Artificial Intelligence for Sustainable Tax Management in the Manufacturing Industry
+   Source: Sustainability (Switzerland) | File: principal.bib
+
+94. [2022] Explainable Artificial Intelligence (XAI) in Insurance
+   Source: Risks | File: principal.bib
+
+95. [2026] AI in Tax Administration and Financial Governance
+   Source: Artificial Intelligence in Public Administration: Opportunit | File: principal.bib
+
+96. [2026] Engineering the law-machine learning translation problem: developing legally aligned models
+   Source: Computer Law and Security Review | File: principal.bib
+
+97. [2023] Artificial intelligence and algorithmic decisions in fraud detection: An interpretive structural model
+   Source: Data and Policy | File: principal.bib
+
+98. [2026] What accountants need to know about artificial intelligence and machine learning: a review and call for future research
+   Source: Journal of Accounting Literature | File: principal.bib
+
+99. [2024] Artificial Intelligence, Rationalization, and the Limits of Control in the Public Sector: The Case of Tax Policy Optimization
+   Source: Social Science Computer Review | File: principal.bib
+
+100. [2025] On the Transposition of FAIR Data Principles to Financial Services: An Adapted FAAIR Guideline
+   Source: Accounting, Finance and Governance Review | File: principal.bib
+
+101. [2025] The role of AI-enabled health systems in the Jordanian context: the case of┬ádigital contact tracing apps
+   Source: Journal of Health Organization and Management | File: principal.bib
+
+102. [2023] Toward Operationalizing Pipeline-aware ML Fairness: A Research Agenda for Developing Practical Guidelines and Tools
+   Source: ACM International Conference Proceeding Series | File: principal.bib
+
+103. [2026] Beyond accuracy: Stabilizing feature importance in GWRF/RF for soil heavy metal mapping
+   Source: Environmental Pollution | File: principal.bib
+
+104. [2025] The Use of Artificial Intelligence by Tax Authorities for Tax Auditing Purposes: Reflections in Light of the European Taxpayer Code and the 
+   Source: International Tax Studies | File: principal.bib
+
+105. [2025] Transparent Intelligence: A Hybrid Explainability Framework for Regulatory Compliance and Law Enforcement Decision Support
+   Source: 2025 5th Asian Conference on Innovation in Technology, ASIAN | File: principal.bib
+
+106. [2025] Auditing Generative AI
+   Source: Advancing IT Audits Through Integrative Approaches and Emerg | File: principal.bib
+
+107. [2025] Twigging the Global Character of AI in Public Sector: Opportunities and Thresholds
+   Source: Green Horizons: Role of AI in Sustainable Finance | File: principal.bib
+
+108. [2025] AI Governance and TaxpayersÔÇÖ Rights in a Digital Age
+   Source: Intertax | File: principal.bib
+
+109. [2025] From control to collaboration: stakeholder perspectives on rethinking local governance and state guardianship through the prism of digital t
+   Source: SN Social Sciences | File: principal.bib
+
+110. [2025] Artificial Intelligence-Based Games as Novel Holistic Educational Environments to Teach 21st Century Skills
+   Source: Intelligent Systems Reference Library | File: principal.bib
+
+111. [2026] Artificial Intelligence in European Union Tax Administrations: A Comparative Assessment
+   Source: Journal of Risk and Financial Management | File: principal.bib
+
+112. [2022] Use of Big Data Analytics by Tax Authorities
+   Source: Research Anthology on Big Data Analytics, Architectures, and | File: principal.bib
+
+113. [2023] What drives the performance of tax administrations? Evidence from selected european countries
+   Source: Economic Modelling | File: principal.bib
+
+114. [2026] Building Citizen Trust Through Explainable AI and DLT in Public Sector Decisions
+   Source: Lecture Notes in Networks and Systems | File: principal.bib
+
+115. [2024] Application of Tax Risk Management System based on Hybrid Association Rule with Apriori Algorithm
+   Source: International Conference on Distributed Systems, Computer Ne | File: principal.bib
+
+116. [2023] The potential of an artificial intelligence (AI) application for the tax administration systemÔÇÖs modernization: the case of Indonesia
+   Source: Artificial Intelligence and Law | File: principal.bib
+
+117. [2025] Bridging IT auditors and AI auditing: Understanding pathways to effective IT audits of AI-driven processes
+   Source: Advances in Accounting | File: principal.bib
+
+118. [2025] AI's transformative impact on finance, auditing, and investment
+   Source: AI's Transformative Impact on Finance, Auditing, and Investm | File: principal.bib
+
+119. [2025] ETHICAL, LEGAL, AND SOCIOECONOMIC ASPECTS OF IMPLEMENTING ARTIFICIAL INTELLIGENCE IN TAX ADMINISTRATION; [ETYCZNE, PRAWNE I SPO┼üECZNO-EKONOM
+   Source: Acta Universitatis Lodziensis. Folia Iuridica | File: principal.bib
+
+120. [2023] Evading the algorithm: increased propensity for tax evasion and norm violations in human-computer interactions
+   Source: Frontiers in Behavioral Economics | File: principal.bib
+
+121. [2021] Geopolitical risk, sustainability and Cross-Border spillovers? In emerging markets
+   Source: Geopolitical Risk, Sustainability and Cross-Border Spillover | File: principal.bib
+
+122. [2025] Supporting Digitalization of ERP (SAP) Value-Added Tax Management Through Data Analytics Tools
+   Source: Communications in Computer and Information Science | File: principal.bib
+
+123. [2025] Transforming VAT Systems Through Open Innovation and Technology ÔÇô A Conceptual Model
+   Source: Lecture Notes in Electrical Engineering | File: principal.bib
+
+124. [2022] ÔÇÿBehind the One-Way Mirror: Reviewing the Legality of EU Tax Algorithmic GovernanceÔÇÖ
+   Source: EC Tax Review | File: principal.bib
+
+125. [2025] Artificial Intelligence in Sustainable Finance: A Comprehensive Literature Review and an Integrative Framework
+   Source: Review of Management Literature | File: principal.bib
+
+126. [2025] New-Age Technologies to Combat Tax Evasion: Technological, Ethical, Legal, Social, and Economic (TELSE) Implications and a Scientometric Ana
+   Source: International Journal of Information Engineering and Electro | File: principal.bib
+
+127. [2025] Role of Artificial Intelligence in Facilitating Open Innovation in VAT Management
+   Source: Communications in Computer and Information Science | File: principal.bib
+
+128. [2025] Cost-Effective Design, Content Management System Implementation and Artificial Intelligence Support of Greek Government AADE, myDATA Web Ser
+   Source: Algorithms | File: principal.bib
+
+129. [2023] AI, Taxation, and Valuation
+   Source: Iowa Law Review | File: principal.bib
+
+130. [2026] Potential Liability Risk With Artificial Intelligence Errors in Financial Reporting
+   Source: Driving Excellence Through AI-Powered Performance Management | File: principal.bib
+
+131. [2025] Towards Better HS Code Prediction: A Comparative Study of Machine Learning and NLP Approaches
+   Source: 2025 International Conference on Smart Computing, IoT and Ma | File: principal.bib
+
+132. [2025] AI Use in Auditing - A Technology Dominance Perspective
+   Source: Proceedings of the Annual Hawaii International Conference on | File: principal.bib
+
+133. [2025] How will the state think with ChatGPT? The challenges of generative artificial intelligence for public administrations
+   Source: AI and Society | File: principal.bib
+
+134. [2025] Proactive detection of tax fraud using explainable AI techniques: A hybrid approach
+   Source: Issues in Information Systems | File: principal.bib
+
+135. [2025] Automated Detection of Deviations in Bankruptcy Processes Using Process Mining
+   Source: IEEE Access | File: principal.bib
+
+136. [2025] Exploring explainable AI in the tax domain
+   Source: Artificial Intelligence and Law | File: principal.bib
+
+137. [2023] GraphFC: Customs Fraud Detection with Label Scarcity
+   Source: International Conference on Information and Knowledge Manage | File: principal.bib
+
+138. [2024] Regulating Tax Avoidance Driven by AI Neural Networks: Strengths and Weaknesses of General Anti-Avoidance Regimes in South Africa and Elsewh
+   Source: Bulletin for International Taxation | File: principal.bib
+
+139. [2026] Language Models and Logic Programs for Trustworthy Tax Reasoning
+   Source: Proceedings of the AAAI Conference on Artificial Intelligenc | File: principal.bib
+
+140. [2024] The impact of using types of artificial intelligence technology in monitoring tax payments
+   Source: International Journal of Data and Network Science | File: principal.bib
+
+141. [2026] AI-Enabled Management of Transfer Pricing Documentation: A Sustainable Governance Framework Integrating Compliance, Digitalization, and CSRD
+   Source: Sustainability (Switzerland) | File: principal.bib
+
+142. [2025] Ethics in AI Use for Tax Administration: Guidelinesfor the Future
+   Source: Intertax | File: principal.bib
+
+143. [2020] Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing
+   Source: FAT* 2020 - Proceedings of the 2020 Conference on Fairness,  | File: principal.bib
+
+144. [2023] A New AI-Based Approach for Rental Tax Evasion Management in Iran (Ethical Consideration)
+   Source: Lecture Notes in Networks and Systems | File: principal.bib
+
+145. [2025] The Future of Social Policy
+   Source: The Future of Social Policy | File: principal.bib
+
+146. [2025] AUTOMATION OF ADMINISTRATIVE PROCEEDINGS IN THE CZECH REPUBLIC: CRITICAL REFLECTIONS ON THE DRAFT ÔÇ£ADM AMENDMENTÔÇØ TO THE ADMINISTRATIVE PROC
+   Source: Studia Iuridica Cassoviensia | File: principal.bib
+
+147. [2019] Tax compliance and privacy rights in profiling and automated decision making
+   Source: Internet Policy Review | File: principal.bib
+
+148. [2022] Audit lead selection and yield prediction from historical tax data using artificial neural networks
+   Source: PLoS ONE | File: principal.bib
+
+149. [2023] Questions of Accountability: Prerogatives, Power and Politics
+   Source: Questions of Accountability Prerogatives, Power and Politics | File: principal.bib
+
+150. [2025] Artificial Intelligence in Legal Judgment: Addressing Income Tax Fraud Through Automated Decision-Making
+   Source: Modern Perspectives on Artificial Intelligence and Law | File: principal.bib
+
+151. [2022] Privacy in Ubiquitous Mobile Computing
+   Source: Learning and Analytics in Intelligent Systems | File: principal.bib
+
+152. [2023] Practitioners' Perspectives on Inclusion and Civic Empowerment in Finnish Public Sector AI
+   Source: ACM International Conference Proceeding Series | File: principal.bib
+
+153. [2021] AUTOMATING ACCOUNTABILITY? PRIVACY POLICIES, DATA TRANSPARENCY, AND THE THIRD PARTY PROBLEM
+   Source: University of Toronto Law Journal | File: principal.bib
+
+154. [2021] Explainable Artificial Intelligence (XAI) Supporting Public Administration Processes ÔÇô On the Potential of XAI in Tax Audit Processes
+   Source: Lecture Notes in Information Systems and Organisation | File: principal.bib
+
+155. [2025] AI AND CORRUPTION: LEGAL LIABILITY IN ALGORITHMIC DECISION-MAKING
+   Source: Access to Justice in Eastern Europe | File: principal.bib
+
+156. [2022] Geopolitical risk, sustainability and "cross-border spillovers? in emerging markets, volume II: Constitutional political economy, pandemics-
+   Source: Geopolitical Risk, Sustainability and "Cross-Border Spillove | File: principal.bib
+
+157. [2026] From Black Box to Actionable Insights: An Adaptive Explainable AI Framework for Proactive Tax Risk Mitigation in Small and Medium Enterprise
+   Source: Proceedings of 2025 2nd International Conference on Digital  | File: principal.bib
+
+158. [2024] The Automated State: A Realist View
+   Source: George Washington Law Review | File: principal.bib
+
+159. [2022] Beyond Ads: Sequential Decision-Making Algorithms in Law and Public Policy
+   Source: CSLAW 2022 - Proceedings of the 2022 Symposium on Computer S | File: principal.bib
+
+160. [2025] Artificial Intelligence in IndonesiaÔÇÖs Financial Sector: Regulatory and Islamic Law Perspectives
+   Source: Justicia Islamica | File: principal.bib
+
+161. [2013] Transparent predictions
+   Source: University of Illinois Law Review | File: principal.bib
+
+162. [2026] Beyond the tax haven: a graph analysis of business attraction in Swiss municipalities
+   Source: EPJ Data Science | File: principal.bib
+
+163. [2026] Can AI technology improve firmsÔÇÖ accounting information quality? Evidence from Chinese listed firms
+   Source: Applied Economics | File: principal.bib
+
+164. [2023] Regulating Government AI and the Challenge of Sociotechnical Design
+   Source: Annual Review of Law and Social Science | File: principal.bib
+
+165. [2025] Letter to the Editor regarding ÔÇ£Prediction of PFAS bioaccumulation in different plant tissues with machine learning models based on molecula
+   Source: Science of the Total Environment | File: principal.bib
+
+166. [2025] The Role of AI and Machine Learning in E-Government Startups
+   Source: Startup-Driven E-Government: Digital Innovation for Sustaina | File: principal.bib
+
+167. [2026] The impact of artificial intelligence on taxation in the promotion of sustainable supply chains
+   Source: AIP Conference Proceedings | File: principal.bib
+
+168. [2024] Artificial Intelligence in Account Management: Innovation, Challenges, and Strategic Outlook
+   Source: 2024 International Conference on Decision Aid Sciences and A | File: principal.bib
+
+169. [2026] Driving Excellence Through AI-Powered Performance Management
+   Source: Driving Excellence Through AI-Powered Performance Management | File: principal.bib
+
+170. [2023] Conclusion ÔÇô strategies and policy decisions in the new digital-era governance
+   Source: The New Digital Era Governance: How New Digital Technologies | File: principal.bib
+
+171. [2025] The trust trifecta: How transparency, ethics, and benefits shape public confidence in government AI
+   Source: Government Information Quarterly | File: principal.bib
+
+172. [2022] Tax Officer 2030: the exercise of discretion and artificial intelligence
+   Source: eJournal of Tax Research | File: principal.bib
+
+173. [2025] The Role of Artificial Intelligence in Achieving Tax Compliance: Evidence from Iraq
+   Source: Studies in Systems, Decision and Control | File: principal.bib
+
+174. [2022] Catala: Moving towards the future of legal expert systems
+   Source: Artificial Intelligence and Law | File: principal.bib
+
+175. [2025] Enhancing Safety in Autonomous Maritime Transportation Systems with Real-Time AI Agents
+   Source: Applied Sciences (Switzerland) | File: principal.bib
+
+176. [2025] Unveiling sentiments of the cullen commission: Exploring AML compliance and regulation through deep learning techniques
+   Source: Journal of Economic Criminology | File: principal.bib
+
+177. [2023] E-TAX ADMINISTRATION: CRITICAL APPRAISAL OF OPPORTUNITIES AND CHALLENGES; [E-ADMINISTRACI├ôN TRIBUTARIA: VALORACI├ôN CR├ìTICA DE OPORTUNIDADES 
+   Source: Cronica Tributaria | File: principal.bib
+
+178. [2026] Prediction of bank transaction fraud using TabNetÔÇöan adaptive deep learning architecture
+   Source: International Review of Economics and Finance | File: principal.bib
+
+179. [2025] Artificial intelligence in tax compliance: Transforming taxpayer behavior and system efficiency
+   Source: Modeling and Profiling Taxpayer Behavior and Compliance | File: principal.bib
+
+180. [2025] Blinded by the Bot: Why AI Chatbots Cue Human Unethical Behavior in Negotiations
+   Source: Journal of Business Ethics | File: principal.bib
+
+181. [2026] Severity-Based Prioritisation of Administrative Tax Non-Compliance: A Multiclass Prediction Approach Using Financial and Governance Data
+   Source: Intelligent Systems in Accounting, Finance and Management | File: principal.bib
+
+182. [2025] Minimizing unnecessary tax audits using multi-objective hyperparameter tuning of XGBoost with focal loss
+   Source: Frontiers in Artificial Intelligence | File: principal.bib
+
+183. [2026] SMART GRIDS DATA ANALYSIS WITH ARTIFICIAL INTELLIGENCE
+   Source: Eurasian Journal of Mathematical and Computer Applications | File: principal.bib
+
+184. [2022] Tax evasion risk management using a Hybrid Unsupervised Outlier Detection method
+   Source: Expert Systems with Applications | File: principal.bib
+
+185. [2022] Towards eXplainable Artificial Intelligence (XAI) in Tax Law: The Need for a Minimum Legal Standard
+   Source: World Tax Journal | File: principal.bib
+
+186. [2019] Transparency and algorithmic governance
+   Source: Administrative Law Review | File: principal.bib
+
+187. [2023] Legal framework for the use of artificial intelligence and automated decisionmaking in public governance
+   Source: The New Digital Era Governance: How New Digital Technologies | File: principal.bib
+
+188. [2022] Balancing fraud analytics with legal requirements: Governance practices and trade-offs in public administrations
+   Source: Data and Policy | File: principal.bib
+
+189. [2024] The future avenues of artificial intelligence and decision-making in business management; [Os futuros caminhos da intelig├¬ncia artificial e 
+   Source: Revista de Administracao Mackenzie | File: principal.bib
+
+190. [2025] Human vs. algorithmic auditors: the impact of entity type and ambiguity on human dishonesty
+   Source: Frontiers in Behavioral Economics | File: principal.bib
+
+191. [2026] Governance Pathways to Sustainable Development: A Global Analysis of Efficiency, Integrity, and Risk Based on Double Machine Learning and Ge
+   Source: Sustainable Development | File: principal.bib
+
+192. [2026] Ensuring trust in sustainability financial reports: the role of AI and blockchain in metadata standardization
+   Source: Management and Sustainability | File: principal.bib
+
+193. [2025] Income Tax Fraud Detection System Using AI and Machine Learning
+   Source: 2025 International Conference on Computing and Communication | File: Scopus_B1.bib
+
+194. [2025] Machine Learning Meets Tax Fraud: Insights from Slovakia
+   Source: Ekonomicky Casopis | File: Scopus_B1.bib
+
+195. [2022] Tax evasion identification using open data and artificial intelligence; [Identifica├º├úo de evas├úo fiscal utilizando dados abertos e intelig├¬n
+   Source: Revista de Administracao Publica | File: Scopus_B1.bib
+
+
+=== TAX + ML entries (top 30) ===
+1. [2025] AI and Tax Law: Development, Impacts, and Potentials of Natural Language Processing
+   Source: Fiscal Policy: Navigating Today's Challenges | File: principal.bib
+
+2. [2024] Navigating the Digital Horizon: Emerging Technologies in Value-Added Tax Management
+   Source: Lecture Notes in Networks and Systems | File: principal.bib
+
+3. [2024] The Transformative Potential of Artificial Intelligence for Public Sector Reform
+   Source: Canadian Public Administration | File: principal.bib
+
+4. [2025] Estimating audit based tax gaps in Zambia
+   Source: International Tax and Public Finance | File: principal.bib
+
+5. [2025] Automated Machine Learning for Predicting Corporate Tax Non-Compliance
+   Source: Proceedings of the IEEE International Conference on Big Data | File: principal.bib
+
+6. [2023] The influence of artificial intelligence on the AISs efficiency: Moderating effect of the cyber security
+   Source: Cogent Social Sciences | File: principal.bib
+
+7. [2026] Design and development of an intelligent system based on artificial intelligence and machine learning using customs digital indicators
+   Source: International Journal of Data and Network Science | File: principal.bib
+
+8. [2023] Fraud analytics practices in public-sector transactions: a┬ásystematic review
+   Source: Journal of Public Budgeting, Accounting and Financial Manage | File: principal.bib
+
+9. [2026] SWOT-based assessment of capacity building strategies for circular economy implementation in construction SMES
+   Source: International Journal of Construction Management | File: principal.bib
+
+10. [2025] A prediction model to detect non-compliant taxpayers using a supervised machine learning approach: evidence from Tunisia
+   Source: Journal of Business Analytics | File: principal.bib
+
+11. [2025] Investigating critical success factors in driving artificial intelligence-based accounting system acceptance and firm performance among SME 
+   Source: Management and Marketing | File: principal.bib
+
+12. [2025] Improving housing valuation for taxation: the Norwegian case
+   Source: International Tax and Public Finance | File: principal.bib
+
+13. [2025] Artificial Intelligence and Taxation Law: Double Taxation Dispute Resolution
+   Source: Artificial Intelligence and Taxation Law: Double Taxation Di | File: principal.bib
+
+14. [2021] BiRank vs PageRank: Using SNA on Company Register Data for Fiscal Risk Prediction
+   Source: 2021 8th International Conference on Social Network Analysis | File: principal.bib
+
+15. [2023] Big data tax audits: the conceptualisation of fishing expeditions
+   Source: International Review of Law, Computers and Technology | File: principal.bib
+
+16. [2024] The Role of Artificial Intelligence in Improving Sustainable Audit Quality
+   Source: Lecture Notes in Networks and Systems | File: principal.bib
+
+17. [2026] NoRMA: A Multi-agent Communication-Centric Dataset for┬áEnhanced Customs Nomenclature Classification
+   Source: Communications in Computer and Information Science | File: principal.bib
+
+18. [2024] Application of AI to minimize information risk in tax control: Evidence from Bulgaria
+   Source: Edelweiss Applied Science and Technology | File: principal.bib
+
+19. [2025] The impact of the Internet of Things on the creative accounting practice using big data
+   Source: International Journal of Data and Network Science | File: principal.bib
+
+20. [2026] A Multimodal AI System: Comparing LLMs and Theorem Proving Systems ÔÇá
+   Source: Electronics (Switzerland) | File: principal.bib
+
+21. [2024] Implementing Machine Learning Methods in Estimating the Size of the Non-observed Economy
+   Source: Computational Economics | File: principal.bib
+
+22. [2025] Artificial Intelligence (AI) and Machine Learning (ML) in Tax Fraud Evasion Detection and Compliance
+   Source: Digital Transformation in Customs and Taxation: A Catalyst f | File: principal.bib
+
+23. [2020] T-EGAT: A Temporal Edge Enhanced Graph Attention Network for Tax Evasion Detection
+   Source: Proceedings - 2020 IEEE International Conference on Big Data | File: principal.bib
+
+24. [2022] In AI we trust? Citizen perceptions of AI in government decision making
+   Source: Policy and Internet | File: principal.bib
+
+25. [2024] Exploring generative AI as personally effective decision-making tools: A thought experiment
+   Source: Enhancing Automated Decision-Making Through AI | File: principal.bib
+
+26. [2024] The Predictive Grey Forecasting Approach for Measuring Tax Collection
+   Source: Journal of Risk and Financial Management | File: principal.bib
+
+27. [2023] Model-Agnostic Federated Learning
+   Source: Lecture Notes in Computer Science (including subseries Lectu | File: principal.bib
+
+28. [2025] Advancing EU VAT Systems with AI and E-Invoicing
+   Source: AI-Driven Digital Transformation: Perspectives from a Busine | File: principal.bib
+
+29. [2025] Selecting Corporate Taxpayer Audit Candidates: a Tabnet-Based Semi-Supervised Learning Approach with Undersampling
+   Source: Proceeding - 2025 International Conference on Information Te | File: Scopus_B1.bib
+
+30. [1997] Neural network models: Foundations and applications to an audit decision problem
+   Source: Annals of Operations Research | File: Scopus_B1.bib
+
+
+=== ML + DUE PROCESS entries (top 30) ===
+1. [2020] Responsible AI: A Primer for the Legal Community
+   Source: Proceedings - 2020 IEEE International Conference on Big Data | File: Scopus_B2.bib
+
+2. [2025] Preface of the Proceedings of the 1st Workshop on Advanced AI in Explainability and Ethics for the Sustainable Development Goals (ExplAI-202
+   Source: CEUR Workshop Proceedings | File: Scopus_B2.bib
+
+3. [2025] Advances in Financial AI: Innovations, Risk, and Responsibility in the Era of LLMs
+   Source: CIKM 2025 - Proceedings of the 34th ACM International Confer | File: Scopus_B2.bib
+
+4. [2020] Algorithmic decision making in public services: A CSCW-perspective
+   Source: Proceedings of the International ACM SIGGROUP Conference on  | File: Scopus_B2.bib
+
+5. [2026] Malpractice in the machine age: Legal and ethical responses to machine learning in medical imaging
+   Source: Radiography | File: Scopus_B2.bib
+
+6. [2025] Complexity, understandability, and compatibility: A comparative study of AI advisory systems for National Security
+   Source: Government Information Quarterly | File: Scopus_B2.bib
+
+7. [2020] Interpretable Machine Learning Tools: A Survey
+   Source: 2020 IEEE Symposium Series on Computational Intelligence, SS | File: Scopus_B2.bib
+
+8. [2025] Psychological impact of AI in the automation of clinical decision-making; [Impacto psicol├│gico de la IA en la automatizaci├│n de la toma de d
+   Source: Salud, Ciencia y Tecnologia | File: Scopus_B2.bib
+
+9. [2024] Detecting drifts in data streams using Kullback-Leibler (KL) divergence measure for data engineering applications
+   Source: Journal of Data, Information and Management | File: Scopus_B2.bib
+
+10. [2025] Privacy, ethics, transparency, and accountability in AI systems for wearable devices
+   Source: Frontiers in Digital Health | File: Scopus_B2.bib
+
+11. [2025] Enhancing Governmental Decision-Making through Predictive Analytics with Machine Learning-Based Data-Driven Framework
+   Source: Babylonian Journal of Machine Learning | File: Scopus_B2.bib
+
+12. [2023] The Algorithmic Public Decision, Between Explainability, Administrative Discretion and Data-Driven Decision Making
+   Source: Lecture Notes in Networks and Systems | File: Scopus_B2.bib
+
+13. [2026] Ethical Implications of Machine Learning in Data Mining
+   Source: Lecture Notes in Electrical Engineering | File: Scopus_B2.bib
+
+14. [2023] Explainable AI (XAI) in Rules as Code (RaC): The DataLex approach
+   Source: Computer Law and Security Review | File: Scopus_B2.bib
+
+15. [2024] Empowering Individuals in Automated Decision-Making: Explainability, Contestability and Beyond
+   Source: Proceedings of the ACM Conference on Computer Supported Coop | File: Scopus_B2.bib
+
+16. [2018] Fair, Transparent, and Accountable Algorithmic Decision-making Processes: The Premise, the Proposed Solutions, and the Open Challenges
+   Source: Philosophy and Technology | File: Scopus_B2.bib
+
+17. [2026] ALGORITHMIC JUSTICE AND HUMAN RIGHTS: STRUCTURAL RISKS AND EMERGING REGULATORY FRAMEWORKS
+   Source: Age of Human Rights Journal | File: Scopus_B2.bib
+
+18. [2025] Risks, failures, and ethical dilemmas of AI technologies and trust
+   Source: Trust in Generative Artificial Intelligence: Human-Robot Int | File: Scopus_B2.bib
+
+19. [2024] Issues that May Arise from Usage of AI Technologies in Criminal Justice and Law Enforcement
+   Source: Accounting, Finance, Sustainability, Governance and Fraud | File: Scopus_B2.bib
+
+20. [2019] Transparency in Algorithmic and Human Decision-Making: Is There a Double Standard?
+   Source: Philosophy and Technology | File: Scopus_B2.bib
+
+21. [2017] A Layered Model for AI Governance
+   Source: IEEE Internet Computing | File: Scopus_B2.bib
+
+22. [2026] Algorithm in the Structure of Administrative Decision-Making: A Model of Explainability and Burden of Proof for an Effective Legal Remedy wi
+   Source: Studia Iuridica Lublinensia | File: Scopus_B2.bib
+
+23. [2023] Path To Gain Functional Transparency In Artificial Intelligence With Meaningful Explainability
+   Source: Journal of Metaverse | File: Scopus_B2.bib
+
+24. [2026] Not Knowing, Yet Living: AI and the Modern Legal Trial of Prometheus in Medicine
+   Source: Lecture Notes in Computer Science | File: Scopus_B2.bib
+
+25. [2025] Is the public willing to provide personal information for processing by government AI? An experimental study based on regulatory commitment 
+   Source: Journal of Asian Public Policy | File: Scopus_B2.bib
+
+26. [2025] Contesting Black-Box AI Decisions
+   Source: Proceedings of the International Joint Conference on Autonom | File: Scopus_B2.bib
+
+27. [2020] Algorithmic decision making in public administration: A CSCW-perspective
+   Source: Proceedings of the International ACM SIGGROUP Conference on  | File: Scopus_B2.bib
+
+28. [2023] Application and Regulation of Algorithm Technology in Automated Decision Making for Law Enforcement
+   Source: Proceedings - 2023 International Seminar on Computer Science | File: Scopus_B2.bib
+
+29. [2020] Shaping Our Tools: Contestability as a Means to Promote Responsible Algorithmic Decision Making in the Professions
+   Source: After the Digital Tornado: Networks, Algorithms, Humanity | File: Scopus_B2.bib
+
+30. [2025] Systematic Literature Review of Explainable LLM-Powered ChatOps for CI/CD Pipeline Diagnostics and Developer Support
+   Source: 2025 International Conference on Advances in Technology and  | File: Scopus_B2.bib
+
+
+=== TAX + DUE PROCESS entries (top 20) ===
+1. [2025] Exploring FinTech trends in Jordan: insights from the post-COVID-19 era
+   Source: Foresight | File: principal.bib
+
+2. [2025] AI: Friend or foe of fairness perceptions of the tax administration? A survey experiment on citizens' procedural fairness perceptions
+   Source: Government Information Quarterly | File: principal.bib
+
+3. [2026] Using behavioral science to improve compliance in government records management: Evidence from a large field experiment
+   Source: Government Information Quarterly | File: principal.bib
+
+4. [2024] Social Media and Tax Law
+   Source: Social Media and Tax Law | File: principal.bib
+
+5. [2022] Blocking the Gap: The Potential for Blockchain Technology to Secure VAT Compliance
+   Source: EC Tax Review | File: principal.bib
+
+6. [2025] Experts, Commercial Software, and the Internal Revenue Service: American Taxpayer Perceptions of Trust and Procedural Justice
+   Source: Law and Human Behavior | File: principal.bib
+
+7. [2025] Old and New Taxpayers' Rights in the Digital Age: Supranational Convergences
+   Source: International Tax Studies | File: principal.bib
+
+8. [2025] Building Blockchain-Driven Dynamic Tax Base Dark Matter Monitoring and Governance Model: Cryptocurrency, International Tax System Reconstruc
+   Source: IET Blockchain | File: principal.bib
+
+9. [2025] Competition Law and Policy in Digital Markets: A Comparative Analysis of the EU and China
+   Source: Competition law and Policy in Digital Markets: a Comparative | File: principal.bib
+
+10. [2026] Fostering employeesÔÇÖ AI adoption in strategic marketing planning and decision making: a mixed-method study in Vietnam
+   Source: Cognition, Technology and Work | File: principal.bib
+
+11. [2020] Digitalization in state financial risk management
+   Source: ACM International Conference Proceeding Series | File: principal.bib
+
+12. [2026] Sustainability Compliance in Mobile Systems: The Role of International Standards and Legal Frameworks in Promoting Freen ICT
+   Source: 7th International Conference on Mobile Computing and Sustain | File: principal.bib
+
+13. [2025] Leveraging AI-Evidence in Money Laundering Cases in Mexico: its Rules of Evidence (according to SCJNÔÇÖs resolutions)
+   Source: Revista de Direito, Estado e Telecomunicacoes | File: principal.bib
+
+14. [2025] Digital sovereignty as an ill-structured (or wicked?) problem
+   Source: Uncertain Journeys into Digital Futures: Inter- and Transdis | File: principal.bib
+
+15. [2018] The valuation of residential property using regression analysis
+   Source: Computer Assisted Mass Appraisal: An International Review | File: principal.bib
+
+16. [2022] Corporate Compliance: Crime, Convenience and Control
+   Source: Corporate Compliance: Crime, Convenience and Control | File: principal.bib
+
+17. [2009] The impact of academic accounting research on professional practice: An analysis by the AAA research impact task force
+   Source: Accounting Horizons | File: principal.bib
+
+18. [2019] Global technology and legal theory: Transnational constitutionalism, google and the European Union
+   Source: Global Technology and Legal Theory: Transnational Constituti | File: principal.bib
+
+19. [2019] DISRUPTION, REGULATORY THEORY AND CHINA: WHAT SURVEILLANCE AND PROFILING CAN TEACH THE MODERN REGULATOR
+   Source: Journal of Governance and Regulation | File: principal.bib
+
+20. [2022] Contemporary e-government for smart tax authorities
+   Source: Electronic Government | File: principal.bib
+
+
+=== CHECKING SPECIFIC AUTHORS FROM RECOMENDACIONES ===
+  NOT FOUND: Pasquale
+  NOT FOUND: Citron
+  FOUND: Coglianese -> [2021] Procurement as AI Governance (in Scopus_B3.bib)
+  FOUND: Coglianese -> [2017] Regulating by robot: Administrative decision making in the Machine-learning era (in Scopus_B3.bib)
+  FOUND: Coglianese -> [2019] Transparency and algorithmic governance (in principal.bib)
+  FOUND: Lehr -> [2017] Regulating by robot: Administrative decision making in the Machine-learning era (in Scopus_B3.bib)
+  FOUND: Lehr -> [2019] Transparency and algorithmic governance (in principal.bib)
+  FOUND: Zerilli -> [2019] Transparency in Algorithmic and Human Decision-Making: Is There a Double Standard? (in Scopus_B2.bib)
+  NOT FOUND: Hemberg
+  NOT FOUND: Rahimikia
+  NOT FOUND: Vellutini
+
+=== YEAR DISTRIBUTION (triple + double) ===
+  2026: 76 entries
+  2025: 161 entries
+  2024: 60 entries
+  2023: 44 entries
+  2022: 32 entries
+  2021: 21 entries
+  2020: 22 entries
+  2019: 9 entries
+  2018: 6 entries
+  2017: 7 entries
+  2014: 2 entries
+  2013: 1 entries
+  2012: 2 entries
+  2011: 1 entries
+  2010: 1 entries
