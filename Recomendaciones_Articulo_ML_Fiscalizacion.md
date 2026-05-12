@@ -185,6 +185,8 @@ BIBLIOGRAFÍA
 
 > [!TIP]
 > **Términos de búsqueda sugeridos** (combinar en español e inglés):
+>
+> Para una versión ampliada y directamente utilizable en bases de datos, ver el documento: **`Ecuaciones_Busqueda_Ruta_A.md`**.
 
 **En inglés (Scopus, WoS, SSRN, HeinOnline):**
 ```
